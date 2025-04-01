@@ -1,7 +1,0 @@
-{
-    "editor.defaultFormatter": "HookyQR.beautify",
-    "notebook.defaultFormatter": "HookyQR.beautify",
-    "[html]": {
-        "editor.defaultFormatter": "HookyQR.beautify"
-    }
-}
